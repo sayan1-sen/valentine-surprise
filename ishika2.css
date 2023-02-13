@@ -33,13 +33,13 @@ div.vidcenter{
     float: right;
     height: 200px;
     width: 300px;
-   padding-top: 4cm;
-  
+   /*padding-top: 4cm;
+   padding-left: 100px;*/
     
 }
 .center{
     height: 150px;
-    width: 300px;
-    padding-left: 200px;
-    padding-top: 50px;
+   /* width: 300px;
+    padding-left: 200px;*/
+    
 }
